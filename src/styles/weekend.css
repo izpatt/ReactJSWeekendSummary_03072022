@@ -1,40 +1,49 @@
-
 .wholeCard {
-   padding-left: 10%;
-   padding-right: 10%;
-    
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
-.card-header{
-    font-weight: 300;
-    font-size: 18px;
+.card-header {
+  font-weight: 300;
+  font-size: 18px;
 }
 
 .card-date-one {
-    background-color: #FFF2AB;
+  background-color: #fff2ab;
 }
 
 .card-body-one {
-    background-color: #FFF7D1;
+  background-color: #fff7d1;
 }
 
 .card-date-two {
-    background-color: #CBF1C4;
+  background-color: #cbf1c4;
 }
 
 .card-body-two {
-    background-color: #E4F9E0;
+  background-color: #e4f9e0;
 }
 
-.card-title{
-    font-weight: 500;
-    font-size: 30px;
+.card-title {
+  font-weight: 500;
+  font-size: 30px;
 }
 
 .card-text {
-    font-style: normal;
-    font-weight: 400;
-    line-height: 30px;
-    text-align: justify
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: justify;
 }
 
+.carousel-container {
+  /* margin-left: -220px; */
+  padding: 0 30%;
+}
+.carousel-inner {
+  height: auto;
+  width: 260%;
+
+  /* height: auto;
+  width: 200%; */
+}
