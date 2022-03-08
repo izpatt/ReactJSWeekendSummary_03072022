@@ -1,0 +1,17 @@
+.jumbotron {
+    margin: 3% 3.5%;
+    padding: 2%;
+    background-color: #F2E6FF;
+    font-family: 'Roboto';
+    border-radius: 20px;
+}
+
+.jumbotron-fluid {
+   display: flex;
+   justify-content: center;
+    background-color: white;
+}
+
+.emoji {
+    font-size: 2em;
+}

@@ -1,0 +1,40 @@
+
+.wholeCard {
+   padding-left: 10%;
+   padding-right: 10%;
+    
+}
+
+.card-header{
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.card-date-one {
+    background-color: #FFF2AB;
+}
+
+.card-body-one {
+    background-color: #FFF7D1;
+}
+
+.card-date-two {
+    background-color: #CBF1C4;
+}
+
+.card-body-two {
+    background-color: #E4F9E0;
+}
+
+.card-title{
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.card-text {
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: justify
+}
+

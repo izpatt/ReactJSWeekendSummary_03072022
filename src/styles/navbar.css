@@ -1,0 +1,24 @@
+.navbar {
+   font-family: 'Roboto';
+   position: sticky;
+   top: 0;
+   z-index: 1;
+   
+}
+
+.navbar-bg {
+    background-color: #7D2AE8;
+}
+
+.navbarTitle  {
+    font-weight: 500;
+}
+
+.itext, .fa-solid {
+    color: white;
+}
+
+.nav-item:hover {
+    background-color: #AF74FA;
+}
+
