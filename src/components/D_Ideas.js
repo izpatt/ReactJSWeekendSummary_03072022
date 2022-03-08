@@ -53,7 +53,10 @@ const Ideas = () => {
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
           </ol>
-          <div className="carousel-inner">
+          <div
+            className="carousel-inner2"
+            style={{ width: "630px", height: "auto" }}
+          >
             <div className="carousel-item active">
               <img className="d-block w-100" src={week1} alt="Second slide" />
             </div>
@@ -67,25 +70,25 @@ const Ideas = () => {
             </div>
           </div>
           <a
-            className="carousel-control-prev"
+            className="carousel-control-prev ml-2"
             href="#carouselExampleIndicators"
             role="button"
             data-slide="prev"
           >
             <span
-              className="carousel-control-prev-icon"
+              className="carousel-control-prev-icon "
               aria-hidden="true"
             ></span>
             <span className="sr-only">Previous</span>
           </a>
           <a
-            className="carousel-control-next"
+            className="carousel-control-next mr-2"
             href="#carouselExampleIndicators"
             role="button"
             data-slide="next"
           >
             <span
-              className="carousel-control-next-icon"
+              className="carousel-control-next-icon "
               aria-hidden="true"
             ></span>
             <span className="sr-only">Next</span>
