@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactJSWeekendSummary_03072022/static/css/main.a43a6083.css",
-    "main.js": "/ReactJSWeekendSummary_03072022/static/js/main.19580ee6.js",
+    "main.css": "/ReactJSWeekendSummary_03072022/static/css/main.94f3dfc0.css",
+    "main.js": "/ReactJSWeekendSummary_03072022/static/js/main.b3f04933.js",
     "static/js/787.165f98e0.chunk.js": "/ReactJSWeekendSummary_03072022/static/js/787.165f98e0.chunk.js",
     "static/media/week3.jpg": "/ReactJSWeekendSummary_03072022/static/media/week3.f91db5a8000377ab96c5.jpg",
     "static/media/week4.jpg": "/ReactJSWeekendSummary_03072022/static/media/week4.f91db5a8000377ab96c5.jpg",
@@ -14,12 +14,12 @@
     "static/media/week7.jpg": "/ReactJSWeekendSummary_03072022/static/media/week7.3f45d6fa302bb167858e.jpg",
     "static/media/week6.jpg": "/ReactJSWeekendSummary_03072022/static/media/week6.ab141fa375d5e87e6aac.jpg",
     "index.html": "/ReactJSWeekendSummary_03072022/index.html",
-    "main.a43a6083.css.map": "/ReactJSWeekendSummary_03072022/static/css/main.a43a6083.css.map",
-    "main.19580ee6.js.map": "/ReactJSWeekendSummary_03072022/static/js/main.19580ee6.js.map",
+    "main.94f3dfc0.css.map": "/ReactJSWeekendSummary_03072022/static/css/main.94f3dfc0.css.map",
+    "main.b3f04933.js.map": "/ReactJSWeekendSummary_03072022/static/js/main.b3f04933.js.map",
     "787.165f98e0.chunk.js.map": "/ReactJSWeekendSummary_03072022/static/js/787.165f98e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a43a6083.css",
-    "static/js/main.19580ee6.js"
+    "static/css/main.94f3dfc0.css",
+    "static/js/main.b3f04933.js"
   ]
 }
