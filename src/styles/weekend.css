@@ -36,14 +36,21 @@
   text-align: justify;
 }
 
-.carousel-container {
-  /* margin-left: -220px; */
-  padding: 0 32%;
+.carousel-control-prev {
+  margin-left: 23%;
+}
+
+.carousel-control-next {
+  margin-right: 25%;
 }
 .carousel-inner {
   height: auto;
   width: 260%;
-
+  margin-left: 28%;
   /* height: auto;
   width: 200%; */
+}
+
+.carousel-inner {
+  color: #cbf1c4;
 }
