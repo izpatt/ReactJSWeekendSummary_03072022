@@ -14,15 +14,15 @@ function App() {
       <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
           <Route path="/" element={<Navbar />}>
-            <Route index element={<Homepage />} />
+            <Route path="/" element={<Homepage />} />
             <Route path="Weekend" element={<Weekend />} />
             <Route path="Ideas" element={<Ideas />} />
           </Route>
         </Routes>
+        <br />
+        <br />
+        <Footer />
       </BrowserRouter>
-      <br />
-      <br />
-      <Footer />
     </>
   );
 }
